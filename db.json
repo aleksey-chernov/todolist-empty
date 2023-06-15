@@ -1,0 +1,36 @@
+{
+  "todos": [
+    {
+      "userId": 1,
+      "title": "Feed the bird",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "DIY stuff",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "userId": 2,
+      "title": "Deal with the cat",
+      "completed": false,
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "James",
+      "email": "james@test.tt",
+      "password": "qwerty"
+    },
+    {
+      "id": 2,
+      "name": "Jeremy",
+      "email": "jeremy@test.tt",
+      "password": "qwerty"
+    }
+  ]
+}
